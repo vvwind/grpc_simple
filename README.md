@@ -1,6 +1,6 @@
 ***Simple grpc service***
 
-**Запуск сервера*
+**Запуск сервера**
 ![image](https://user-images.githubusercontent.com/106326324/202920896-5bffe93a-af46-4998-9188-de531b0c2548.png)
 **Запрос и вывод Клиента**
 ![image](https://user-images.githubusercontent.com/106326324/202920937-84e009a1-1f42-4b0e-920b-53811e292ed0.png)
